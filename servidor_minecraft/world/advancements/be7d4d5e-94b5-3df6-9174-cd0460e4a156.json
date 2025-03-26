@@ -11,6 +11,7 @@
       "minecraft:river": "2025-03-25 23:04:45 +0000",
       "minecraft:lukewarm_ocean": "2025-03-26 00:10:35 +0000",
       "minecraft:snowy_plains": "2025-03-26 00:42:29 +0000",
+      "minecraft:snowy_taiga": "2025-03-26 01:13:10 +0000",
       "minecraft:cold_ocean": "2025-03-26 00:34:14 +0000",
       "minecraft:forest": "2025-03-25 21:49:41 +0000",
       "minecraft:jungle": "2025-03-26 00:11:17 +0000",
@@ -427,6 +428,78 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-26 01:13:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-26 01:13:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-26 01:13:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-26 01:13:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-26 01:13:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-26 01:13:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-26 01:13:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-26 01:13:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-26 01:13:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-26 01:13:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-26 01:13:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-26 01:13:14 +0000"
+    },
+    "done": false
+  },
   "aether:recipes/combat/netherite_sword_repairing": {
     "criteria": {
       "has_netherite_sword": "2025-03-26 00:44:31 +0000"
@@ -457,6 +530,12 @@
     },
     "done": true
   },
+  "aether:recipes/misc/aether_gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_pendant": "2025-03-26 01:10:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-03-26 00:44:33 +0000"
@@ -475,9 +554,21 @@
     },
     "done": true
   },
+  "aether:recipes/misc/ice_ring_from_freezing": {
+    "criteria": {
+      "has_ring": "2025-03-26 01:11:07 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/aether_saddle": {
     "criteria": {
       "has_leather": "2025-03-26 00:44:33 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/holystone_sword_repairing": {
+    "criteria": {
+      "has_holystone_sword": "2025-03-26 01:10:54 +0000"
     },
     "done": true
   },
@@ -589,9 +680,21 @@
     },
     "done": true
   },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2025-03-26 01:13:23 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-03-26 00:44:41 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/ice_pendant_from_freezing": {
+    "criteria": {
+      "has_pendant": "2025-03-26 01:10:59 +0000"
     },
     "done": true
   },
@@ -688,6 +791,12 @@
   "chiselsandbits:recipes/tools/bit_bag": {
     "criteria": {
       "has_w": "2025-03-26 00:44:41 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_pendant": "2025-03-26 01:10:59 +0000"
     },
     "done": true
   },

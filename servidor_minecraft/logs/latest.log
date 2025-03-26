@@ -607,3 +607,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [26Mar2025 00:43:29.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jandro_ has made the advancement [Hostile Paradise]
 [26Mar2025 00:43:55.188] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jandro_ moved too quickly! 0.0,-18.07598237618791,-0.010171232617722126
 [26Mar2025 00:55:26.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] xd
+[26Mar2025 01:08:11.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jandro_: Teleported Joc_512 to Jandro_]

@@ -572,3 +572,37 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [26Mar2025 00:38:25.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jandro_: Summoned new Courierbird]
 [26Mar2025 00:38:30.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jandro_: Summoned new Dire Wolf]
 [26Mar2025 00:38:35.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jandro_: Summoned new Dragon]
+[26Mar2025 00:38:45.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joc_512 was killed
+[26Mar2025 00:38:45.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jandro_ was killed
+[26Mar2025 00:38:45.899] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Olof'/2352, l='ServerLevel[world]', x=2474.50, y=68.00, z=-2309.50] died, message: 'Olof was killed'
+[26Mar2025 00:38:45.902] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Oskar'/2353, l='ServerLevel[world]', x=2520.50, y=68.00, z=-2316.50] died, message: 'Oskar was killed'
+[26Mar2025 00:38:45.905] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Bo'/2354, l='ServerLevel[world]', x=2539.50, y=67.00, z=-2342.50] died, message: 'Bo was killed'
+[26Mar2025 00:38:45.909] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Stellan'/2355, l='ServerLevel[world]', x=2553.50, y=65.00, z=-2334.50] died, message: 'Stellan was killed'
+[26Mar2025 00:38:45.910] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Oscar'/2356, l='ServerLevel[world]', x=2540.60, y=68.00, z=-2344.49] died, message: 'Oscar was killed'
+[26Mar2025 00:38:45.915] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Malin'/2357, l='ServerLevel[world]', x=2571.50, y=65.00, z=-2332.50] died, message: 'Malin was killed'
+[26Mar2025 00:38:45.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jandro_: Killed 681 entities]
+[26Mar2025 00:39:07.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jandro_: Summoned new Żar-ptak]
+[26Mar2025 00:39:11.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jandro_: Summoned new Giant Geckotoa]
+[26Mar2025 00:39:16.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jandro_: Summoned new Griffon]
+[26Mar2025 00:39:23.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jandro_: Summoned new Giant Moth]
+[26Mar2025 00:39:29.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jandro_: Summoned new Nether Bat]
+[26Mar2025 00:39:31.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joc_512 has made the advancement [Best Friends Forever]
+[26Mar2025 00:40:14.115] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joc_512 was kicked for floating a vehicle too long!
+[26Mar2025 00:40:14.166] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joc_512 lost connection: Flying is not enabled on this server
+[26Mar2025 00:40:14.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joc_512 left the game
+[26Mar2025 00:40:31.934] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Joc_512[/127.150.30.202:47597] logged in with entity id 4420 at (101.83022235581824, 79.47465272697485, -12.012095180996042)
+[26Mar2025 00:40:31.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joc_512 joined the game
+[26Mar2025 00:40:32.035] [Server thread/INFO] [Jade/]: Syncing config to Joc_512 (a4818cf5-df0b-3b18-a01b-01bd46e431fa)
+[26Mar2025 00:40:55.219] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jandro_ was kicked for floating a vehicle too long!
+[26Mar2025 00:40:55.270] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jandro_ lost connection: Flying is not enabled on this server
+[26Mar2025 00:40:55.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jandro_ left the game
+[26Mar2025 00:41:10.176] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jandro_[/127.66.163.165:44813] logged in with entity id 4513 at (60.866537578118226, 91.25775722578649, -54.6336342450233)
+[26Mar2025 00:41:10.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jandro_ joined the game
+[26Mar2025 00:41:10.247] [Server thread/INFO] [Jade/]: Syncing config to Jandro_ (be7d4d5e-94b5-3df6-9174-cd0460e4a156)
+[26Mar2025 00:42:23.173] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element mss:spruce_huts took 1556 ms
+[26Mar2025 00:42:28.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jandro_: Teleported Jandro_ to -3791.500000, 73.116501, -19631.500000]
+[26Mar2025 00:42:28.711] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3152ms or 63 ticks behind
+[26Mar2025 00:42:55.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jandro_: Teleported Joc_512 to Jandro_]
+[26Mar2025 00:43:28.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joc_512 has made the advancement [Hostile Paradise]
+[26Mar2025 00:43:29.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jandro_ has made the advancement [Hostile Paradise]
+[26Mar2025 00:43:55.188] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jandro_ moved too quickly! 0.0,-18.07598237618791,-0.010171232617722126

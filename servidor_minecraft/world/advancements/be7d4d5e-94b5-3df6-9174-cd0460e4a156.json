@@ -10,12 +10,14 @@
       "minecraft:beach": "2025-03-26 00:11:03 +0000",
       "minecraft:river": "2025-03-25 23:04:45 +0000",
       "minecraft:lukewarm_ocean": "2025-03-26 00:10:35 +0000",
+      "minecraft:snowy_plains": "2025-03-26 00:42:29 +0000",
       "minecraft:cold_ocean": "2025-03-26 00:34:14 +0000",
       "minecraft:forest": "2025-03-25 21:49:41 +0000",
       "minecraft:jungle": "2025-03-26 00:11:17 +0000",
       "minecraft:ocean": "2025-03-26 00:34:06 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-03-26 00:35:09 +0000",
       "minecraft:windswept_savanna": "2025-03-26 00:12:14 +0000",
+      "minecraft:savanna": "2025-03-26 00:39:00 +0000",
       "minecraft:plains": "2025-03-25 23:04:49 +0000"
     },
     "done": false
@@ -114,7 +116,8 @@
     "criteria": {
       "minecraft:creeper": "2025-03-25 23:05:47 +0000",
       "minecraft:evoker": "2025-03-26 00:13:06 +0000",
-      "minecraft:witch": "2025-03-26 00:18:07 +0000"
+      "minecraft:witch": "2025-03-26 00:18:07 +0000",
+      "minecraft:zombie": "2025-03-26 00:36:15 +0000"
     },
     "done": false
   },
@@ -400,15 +403,291 @@
     },
     "done": true
   },
+  "ad_astra:tier_4_rocket": {
+    "criteria": {
+      "tier_4_rocket": "2025-03-26 00:30:53 +0000"
+    },
+    "done": true
+  },
   "ad_astra:moon": {
     "criteria": {
       "moon": "2025-03-26 00:32:25 +0000"
     },
     "done": true
   },
-  "ad_astra:tier_4_rocket": {
+  "mca:root": {
     "criteria": {
-      "tier_4_rocket": "2025-03-26 00:30:53 +0000"
+      "village_taiga": "2025-03-26 00:35:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-03-26 00:37:19 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_sword_repairing": {
+    "criteria": {
+      "has_netherite_sword": "2025-03-26 00:44:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-03-26 00:44:33 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_bed": {
+    "criteria": {
+      "has_wool": "2025-03-26 00:44:41 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/packed_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-03-26 00:43:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-03-26 00:44:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-03-26 00:44:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2025-03-26 00:44:41 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_chair_classic_light_blue": {
+    "criteria": {
+      "oak_chair_classic_light_blue": "2025-03-26 00:44:41 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/aether_saddle": {
+    "criteria": {
+      "has_leather": "2025-03-26 00:44:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-03-26 00:44:33 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/horse": {
+    "criteria": {
+      "has_leather": "2025-03-26 00:44:33 +0000"
+    },
+    "done": true
+  },
+  "aether:the_aether": {
+    "criteria": {
+      "the_aether": "2025-03-26 00:43:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-03-26 00:44:33 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sheep": {
+    "criteria": {
+      "has_white_wool": "2025-03-26 00:44:43 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/white_shower_towel": {
+    "criteria": {
+      "has_white_wool": "2025-03-26 00:44:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-03-26 00:44:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-03-26 00:43:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-03-26 00:43:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_carpet": {
+    "criteria": {
+      "has_light_blue_wool": "2025-03-26 00:44:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-03-26 00:44:33 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/white_cape": {
+    "criteria": {
+      "has_white_wool": "2025-03-26 00:44:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-03-26 00:44:43 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_gloves": {
+    "criteria": {
+      "has_leather": "2025-03-26 00:44:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-03-26 00:44:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-03-26 00:44:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-03-26 00:44:41 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/blue_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-03-26 00:43:25 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/light_blue_shower_towel": {
+    "criteria": {
+      "has_light_blue_wool": "2025-03-26 00:44:41 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/ice_from_bucket_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-03-26 00:43:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2025-03-26 00:44:41 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/white_sleeping_bag": {
+    "criteria": {
+      "has_white_wool": "2025-03-26 00:44:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-03-26 00:43:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-03-26 00:44:43 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/basic_shower_head": {
+    "criteria": {
+      "has_water_bucket": "2025-03-26 00:43:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-03-26 00:44:41 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blank_upgrade": {
+    "criteria": {
+      "has_leather": "2025-03-26 00:44:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-03-26 00:44:43 +0000"
+    },
+    "done": true
+  },
+  "aether:enter_aether": {
+    "criteria": {
+      "enter_aether": "2025-03-26 00:43:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-03-26 00:44:41 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/light_blue_sleeping_bag": {
+    "criteria": {
+      "has_light_blue_wool": "2025-03-26 00:44:41 +0000"
+    },
+    "done": true
+  },
+  "chiselsandbits:recipes/tools/bit_bag": {
+    "criteria": {
+      "has_w": "2025-03-26 00:44:41 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/blue_cape_light_blue_wool": {
+    "criteria": {
+      "has_light_blue_wool": "2025-03-26 00:44:41 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_chair_classic_white": {
+    "criteria": {
+      "oak_chair_classic_white": "2025-03-26 00:44:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-03-26 00:44:33 +0000"
     },
     "done": true
   },

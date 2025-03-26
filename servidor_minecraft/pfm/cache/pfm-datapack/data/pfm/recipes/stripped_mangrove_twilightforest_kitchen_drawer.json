@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "twilightforest:stripped_mangrove_log"
+    },
+    {
+      "item": "twilightforest:stripped_mangrove_log"
+    },
+    {
+      "item": "twilightforest:stripped_mangrove_log"
+    },
+    {
+      "item": "twilightforest:stripped_mangrove_log"
+    },
+    {
+      "item": "twilightforest:stripped_mangrove_log"
+    },
+    {
+      "item": "twilightforest:mangrove_planks"
+    },
+    {
+      "item": "twilightforest:mangrove_planks"
+    },
+    {
+      "item": "twilightforest:mangrove_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_mangrove_twilightforest_kitchen_drawer"
+  }
+}

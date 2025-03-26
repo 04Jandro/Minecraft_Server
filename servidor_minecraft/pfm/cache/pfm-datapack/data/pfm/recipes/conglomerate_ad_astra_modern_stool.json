@@ -1,0 +1,22 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "ad_astra:conglomerate"
+    },
+    {
+      "item": "ad_astra:polished_conglomerate"
+    },
+    {
+      "item": "ad_astra:polished_conglomerate"
+    },
+    {
+      "item": "ad_astra:polished_conglomerate"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:conglomerate_ad_astra_modern_stool"
+  }
+}

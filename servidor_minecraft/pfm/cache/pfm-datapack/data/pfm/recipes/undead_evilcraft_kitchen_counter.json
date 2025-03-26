@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "evilcraft:undead_planks"
+    },
+    {
+      "item": "evilcraft:undead_planks"
+    },
+    {
+      "item": "evilcraft:undead_planks"
+    },
+    {
+      "item": "evilcraft:undead_planks"
+    },
+    {
+      "item": "evilcraft:undead_planks"
+    },
+    {
+      "item": "evilcraft:undead_planks"
+    },
+    {
+      "item": "evilcraft:undead_log"
+    },
+    {
+      "item": "evilcraft:undead_log"
+    },
+    {
+      "item": "evilcraft:undead_log"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:undead_evilcraft_kitchen_counter"
+  }
+}

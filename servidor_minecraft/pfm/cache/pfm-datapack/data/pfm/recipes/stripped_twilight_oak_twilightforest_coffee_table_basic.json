@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "twilightforest:twilight_oak_planks"
+    },
+    {
+      "item": "twilightforest:twilight_oak_planks"
+    },
+    {
+      "item": "twilightforest:twilight_oak_planks"
+    },
+    {
+      "item": "twilightforest:stripped_twilight_oak_log"
+    },
+    {
+      "item": "twilightforest:stripped_twilight_oak_log"
+    },
+    {
+      "item": "twilightforest:stripped_twilight_oak_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_twilight_oak_twilightforest_coffee_table_basic"
+  }
+}

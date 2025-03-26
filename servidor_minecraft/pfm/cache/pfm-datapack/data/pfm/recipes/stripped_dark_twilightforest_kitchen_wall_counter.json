@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "twilightforest:stripped_dark_log"
+    },
+    {
+      "item": "twilightforest:stripped_dark_log"
+    },
+    {
+      "item": "twilightforest:stripped_dark_log"
+    },
+    {
+      "item": "twilightforest:stripped_dark_log"
+    },
+    {
+      "item": "twilightforest:stripped_dark_log"
+    },
+    {
+      "item": "twilightforest:stripped_dark_log"
+    },
+    {
+      "item": "twilightforest:stripped_dark_log"
+    },
+    {
+      "item": "twilightforest:stripped_dark_log"
+    },
+    {
+      "item": "twilightforest:stripped_dark_log"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:stripped_dark_twilightforest_kitchen_wall_counter"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "pfm:oak_chair_classic_light_gray"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "oak_chair_classic_light_gray": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:light_gray_wool"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "oak_chair_classic_light_gray",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "pfm:oak_chair_classic_light_gray"
+    ]
+  },
+  "sends_telemetry_event": true
+}

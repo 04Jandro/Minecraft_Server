@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "twilightforest:dark_planks"
+    },
+    {
+      "item": "twilightforest:dark_planks"
+    },
+    {
+      "item": "twilightforest:dark_planks"
+    },
+    {
+      "item": "minecraft:cyan_bed"
+    },
+    {
+      "item": "twilightforest:dark_fence"
+    },
+    {
+      "item": "twilightforest:dark_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:dark_twilightforest_cyan_classic_bed"
+  }
+}

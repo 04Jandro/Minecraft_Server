@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "twilightforest:mining_log"
+    },
+    {
+      "item": "twilightforest:mining_log"
+    },
+    {
+      "item": "twilightforest:mining_log"
+    },
+    {
+      "item": "twilightforest:mining_planks"
+    },
+    {
+      "item": "twilightforest:mining_planks"
+    },
+    {
+      "item": "twilightforest:mining_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:mining_twilightforest_chair_dinner"
+  }
+}

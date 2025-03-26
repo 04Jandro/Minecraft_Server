@@ -1,0 +1,22 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "twilightforest:sorting_log"
+    },
+    {
+      "item": "twilightforest:sorting_planks"
+    },
+    {
+      "item": "twilightforest:sorting_planks"
+    },
+    {
+      "item": "twilightforest:sorting_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:sorting_twilightforest_modern_stool"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "twilightforest:twilight_oak_planks"
+    },
+    {
+      "item": "twilightforest:stripped_twilight_oak_log"
+    },
+    {
+      "item": "twilightforest:stripped_twilight_oak_log"
+    },
+    {
+      "item": "twilightforest:stripped_twilight_oak_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_twilight_oak_twilightforest_modern_stool"
+  }
+}

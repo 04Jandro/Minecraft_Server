@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:netherite_coffee_table_modern"
+        }
+      ],
+      "name": "netherite_coffee_table_modern",
+      "rolls": 1.0
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "ad_astra:stripped_glacian_log"
+    },
+    {
+      "item": "ad_astra:stripped_glacian_log"
+    },
+    {
+      "item": "ad_astra:stripped_glacian_log"
+    },
+    {
+      "item": "ad_astra:stripped_glacian_log"
+    },
+    {
+      "item": "ad_astra:stripped_glacian_log"
+    },
+    {
+      "item": "ad_astra:stripped_glacian_log"
+    },
+    {
+      "item": "ad_astra:stripped_glacian_log"
+    },
+    {
+      "item": "ad_astra:stripped_glacian_log"
+    },
+    {
+      "item": "ad_astra:stripped_glacian_log"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:stripped_glacian_ad_astra_kitchen_wall_counter"
+  }
+}

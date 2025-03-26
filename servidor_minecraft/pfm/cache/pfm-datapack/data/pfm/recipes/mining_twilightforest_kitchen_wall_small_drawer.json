@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "twilightforest:mining_planks"
+    },
+    {
+      "item": "twilightforest:mining_planks"
+    },
+    {
+      "item": "twilightforest:mining_planks"
+    },
+    {
+      "item": "twilightforest:mining_log"
+    },
+    {
+      "item": "twilightforest:mining_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:mining_twilightforest_kitchen_wall_small_drawer"
+  }
+}

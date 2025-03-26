@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "minecraft:cherry_planks"
+    },
+    {
+      "item": "minecraft:cherry_planks"
+    },
+    {
+      "item": "minecraft:cherry_planks"
+    },
+    {
+      "item": "minecraft:pink_bed"
+    },
+    {
+      "item": "minecraft:cherry_fence"
+    },
+    {
+      "item": "minecraft:cherry_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:cherry_pink_classic_bed"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "twilightforest:dark_planks"
+    },
+    {
+      "item": "twilightforest:dark_planks"
+    },
+    {
+      "item": "twilightforest:dark_planks"
+    },
+    {
+      "item": "twilightforest:dark_planks"
+    },
+    {
+      "item": "twilightforest:dark_planks"
+    },
+    {
+      "item": "minecraft:light_gray_bed"
+    }
+  ],
+  "result": {
+    "item": "pfm:dark_twilightforest_light_gray_simple_bed"
+  }
+}

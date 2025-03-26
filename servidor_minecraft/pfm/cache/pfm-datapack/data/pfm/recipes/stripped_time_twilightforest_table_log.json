@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "twilightforest:time_planks"
+    },
+    {
+      "item": "twilightforest:time_planks"
+    },
+    {
+      "item": "twilightforest:stripped_time_log"
+    },
+    {
+      "item": "twilightforest:stripped_time_log"
+    },
+    {
+      "item": "twilightforest:stripped_time_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_time_twilightforest_table_log"
+  }
+}

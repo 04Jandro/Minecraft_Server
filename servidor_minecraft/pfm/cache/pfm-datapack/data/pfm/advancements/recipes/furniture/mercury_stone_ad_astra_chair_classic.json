@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "pfm:mercury_stone_ad_astra_chair_classic"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "mercury_stone_ad_astra_chair_classic": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "ad_astra:polished_mercury_stone"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "mercury_stone_ad_astra_chair_classic",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "pfm:mercury_stone_ad_astra_chair_classic"
+    ]
+  },
+  "sends_telemetry_event": true
+}

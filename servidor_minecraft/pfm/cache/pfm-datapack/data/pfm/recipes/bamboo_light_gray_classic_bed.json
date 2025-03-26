@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "minecraft:bamboo_planks"
+    },
+    {
+      "item": "minecraft:bamboo_planks"
+    },
+    {
+      "item": "minecraft:bamboo_planks"
+    },
+    {
+      "item": "minecraft:light_gray_bed"
+    },
+    {
+      "item": "minecraft:bamboo_fence"
+    },
+    {
+      "item": "minecraft:bamboo_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:bamboo_light_gray_classic_bed"
+  }
+}

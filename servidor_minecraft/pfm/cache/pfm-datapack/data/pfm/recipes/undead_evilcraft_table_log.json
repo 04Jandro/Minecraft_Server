@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "evilcraft:undead_log"
+    },
+    {
+      "item": "evilcraft:undead_log"
+    },
+    {
+      "item": "evilcraft:undead_planks"
+    },
+    {
+      "item": "evilcraft:undead_planks"
+    },
+    {
+      "item": "evilcraft:undead_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:undead_evilcraft_table_log"
+  }
+}

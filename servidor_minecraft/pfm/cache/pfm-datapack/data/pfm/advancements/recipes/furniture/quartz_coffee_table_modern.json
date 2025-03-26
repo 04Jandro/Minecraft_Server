@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "pfm:quartz_coffee_table_modern"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "quartz_coffee_table_modern": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:quartz_block"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "quartz_coffee_table_modern",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "pfm:quartz_coffee_table_modern"
+    ]
+  },
+  "sends_telemetry_event": true
+}

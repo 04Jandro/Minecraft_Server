@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "aether:skyroot_planks"
+    },
+    {
+      "item": "aether:skyroot_planks"
+    },
+    {
+      "item": "aether:skyroot_planks"
+    },
+    {
+      "item": "aether:skyroot_planks"
+    },
+    {
+      "item": "aether:skyroot_planks"
+    },
+    {
+      "item": "aether:skyroot_planks"
+    },
+    {
+      "item": "aether:skyroot_planks"
+    },
+    {
+      "item": "aether:skyroot_planks"
+    },
+    {
+      "item": "aether:skyroot_planks"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:skyroot_aether_kitchen_wall_counter"
+  }
+}

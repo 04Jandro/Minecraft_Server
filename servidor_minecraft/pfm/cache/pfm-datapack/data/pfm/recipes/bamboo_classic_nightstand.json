@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "minecraft:bamboo_block"
+    },
+    {
+      "item": "minecraft:bamboo_block"
+    },
+    {
+      "item": "minecraft:bamboo_block"
+    },
+    {
+      "item": "minecraft:bamboo_block"
+    },
+    {
+      "item": "minecraft:bamboo_block"
+    },
+    {
+      "item": "minecraft:bamboo_block"
+    },
+    {
+      "item": "minecraft:bamboo_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:bamboo_classic_nightstand"
+  }
+}

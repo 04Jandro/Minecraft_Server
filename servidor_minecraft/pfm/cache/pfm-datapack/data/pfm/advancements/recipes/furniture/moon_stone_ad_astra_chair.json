@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "pfm:moon_stone_ad_astra_chair"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "moon_stone_ad_astra_chair": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "ad_astra:polished_moon_stone"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "moon_stone_ad_astra_chair",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "pfm:moon_stone_ad_astra_chair"
+    ]
+  },
+  "sends_telemetry_event": true
+}

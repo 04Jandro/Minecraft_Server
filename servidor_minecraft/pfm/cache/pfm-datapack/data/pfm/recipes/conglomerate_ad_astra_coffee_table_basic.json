@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "ad_astra:conglomerate"
+    },
+    {
+      "item": "ad_astra:conglomerate"
+    },
+    {
+      "item": "ad_astra:conglomerate"
+    },
+    {
+      "item": "ad_astra:polished_conglomerate"
+    },
+    {
+      "item": "ad_astra:polished_conglomerate"
+    },
+    {
+      "item": "ad_astra:polished_conglomerate"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:conglomerate_ad_astra_coffee_table_basic"
+  }
+}

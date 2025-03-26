@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:stripped_oak_kitchen_wall_small_drawer"
+        }
+      ],
+      "name": "stripped_oak_kitchen_wall_small_drawer",
+      "rolls": 1.0
+    }
+  ]
+}

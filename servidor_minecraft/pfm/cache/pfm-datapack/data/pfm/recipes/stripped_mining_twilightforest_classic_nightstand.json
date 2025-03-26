@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "twilightforest:mining_planks"
+    },
+    {
+      "item": "twilightforest:mining_planks"
+    },
+    {
+      "item": "twilightforest:mining_planks"
+    },
+    {
+      "item": "twilightforest:mining_planks"
+    },
+    {
+      "item": "twilightforest:mining_planks"
+    },
+    {
+      "item": "twilightforest:mining_planks"
+    },
+    {
+      "item": "twilightforest:stripped_mining_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_mining_twilightforest_classic_nightstand"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "conditions": [
+            {
+              "block": "pfm:cherry_light_gray_simple_bed",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "part": "head"
+              }
+            }
+          ],
+          "name": "pfm:cherry_light_gray_simple_bed"
+        }
+      ],
+      "name": "cherry_light_gray_simple_bed",
+      "rolls": 1.0
+    }
+  ]
+}

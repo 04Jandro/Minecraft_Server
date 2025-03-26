@@ -1,0 +1,31 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "twilightforest:canopy_planks"
+    },
+    {
+      "item": "twilightforest:canopy_planks"
+    },
+    {
+      "item": "twilightforest:canopy_planks"
+    },
+    {
+      "item": "twilightforest:canopy_planks"
+    },
+    {
+      "item": "twilightforest:stripped_canopy_log"
+    },
+    {
+      "item": "twilightforest:stripped_canopy_log"
+    },
+    {
+      "item": "twilightforest:stripped_canopy_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_canopy_twilightforest_table_classic"
+  }
+}

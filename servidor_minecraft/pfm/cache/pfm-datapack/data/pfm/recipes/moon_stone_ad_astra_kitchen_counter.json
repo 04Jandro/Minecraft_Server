@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "ad_astra:polished_moon_stone"
+    },
+    {
+      "item": "ad_astra:polished_moon_stone"
+    },
+    {
+      "item": "ad_astra:polished_moon_stone"
+    },
+    {
+      "item": "ad_astra:polished_moon_stone"
+    },
+    {
+      "item": "ad_astra:polished_moon_stone"
+    },
+    {
+      "item": "ad_astra:polished_moon_stone"
+    },
+    {
+      "item": "ad_astra:moon_stone"
+    },
+    {
+      "item": "ad_astra:moon_stone"
+    },
+    {
+      "item": "ad_astra:moon_stone"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:moon_stone_ad_astra_kitchen_counter"
+  }
+}

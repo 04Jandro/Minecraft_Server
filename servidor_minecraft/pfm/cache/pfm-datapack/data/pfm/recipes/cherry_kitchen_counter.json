@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "minecraft:cherry_planks"
+    },
+    {
+      "item": "minecraft:cherry_planks"
+    },
+    {
+      "item": "minecraft:cherry_planks"
+    },
+    {
+      "item": "minecraft:cherry_planks"
+    },
+    {
+      "item": "minecraft:cherry_planks"
+    },
+    {
+      "item": "minecraft:cherry_planks"
+    },
+    {
+      "item": "minecraft:cherry_log"
+    },
+    {
+      "item": "minecraft:cherry_log"
+    },
+    {
+      "item": "minecraft:cherry_log"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:cherry_kitchen_counter"
+  }
+}

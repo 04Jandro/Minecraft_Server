@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "minecraft:mangrove_planks"
+    },
+    {
+      "item": "minecraft:mangrove_planks"
+    },
+    {
+      "item": "minecraft:mangrove_planks"
+    },
+    {
+      "item": "minecraft:mangrove_planks"
+    },
+    {
+      "item": "minecraft:mangrove_planks"
+    },
+    {
+      "item": "minecraft:mangrove_planks"
+    },
+    {
+      "item": "minecraft:mangrove_planks"
+    },
+    {
+      "item": "minecraft:mangrove_planks"
+    },
+    {
+      "item": "minecraft:mangrove_planks"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:mangrove_kitchen_wall_counter"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "ad_astra:mars_stone"
+    },
+    {
+      "item": "ad_astra:mars_stone"
+    },
+    {
+      "item": "ad_astra:mars_stone"
+    },
+    {
+      "item": "ad_astra:mars_stone"
+    },
+    {
+      "item": "ad_astra:mars_stone"
+    },
+    {
+      "item": "ad_astra:mars_stone"
+    },
+    {
+      "item": "ad_astra:polished_mars_stone"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:mars_stone_ad_astra_classic_nightstand"
+  }
+}

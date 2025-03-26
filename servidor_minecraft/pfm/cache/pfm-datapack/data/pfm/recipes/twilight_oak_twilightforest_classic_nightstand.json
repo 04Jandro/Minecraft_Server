@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "twilightforest:twilight_oak_log"
+    },
+    {
+      "item": "twilightforest:twilight_oak_log"
+    },
+    {
+      "item": "twilightforest:twilight_oak_log"
+    },
+    {
+      "item": "twilightforest:twilight_oak_log"
+    },
+    {
+      "item": "twilightforest:twilight_oak_log"
+    },
+    {
+      "item": "twilightforest:twilight_oak_log"
+    },
+    {
+      "item": "twilightforest:twilight_oak_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:twilight_oak_twilightforest_classic_nightstand"
+  }
+}

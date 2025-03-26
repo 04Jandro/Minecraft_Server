@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "twilightforest:dark_planks"
+    },
+    {
+      "item": "twilightforest:dark_planks"
+    },
+    {
+      "item": "twilightforest:dark_planks"
+    },
+    {
+      "item": "twilightforest:dark_planks"
+    },
+    {
+      "item": "twilightforest:dark_planks"
+    },
+    {
+      "item": "twilightforest:dark_planks"
+    },
+    {
+      "item": "twilightforest:dark_log"
+    },
+    {
+      "item": "twilightforest:dark_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:dark_twilightforest_kitchen_cabinet"
+  }
+}

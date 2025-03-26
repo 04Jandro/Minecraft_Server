@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "twilightforest:mangrove_planks"
+    },
+    {
+      "item": "twilightforest:mangrove_planks"
+    },
+    {
+      "item": "twilightforest:mangrove_planks"
+    },
+    {
+      "item": "twilightforest:stripped_mangrove_log"
+    },
+    {
+      "item": "twilightforest:stripped_mangrove_log"
+    },
+    {
+      "item": "twilightforest:stripped_mangrove_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_mangrove_twilightforest_chair_dinner"
+  }
+}

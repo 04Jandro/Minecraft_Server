@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:undead_evilcraft_kitchen_wall_counter"
+        }
+      ],
+      "name": "undead_evilcraft_kitchen_wall_counter",
+      "rolls": 1.0
+    }
+  ]
+}

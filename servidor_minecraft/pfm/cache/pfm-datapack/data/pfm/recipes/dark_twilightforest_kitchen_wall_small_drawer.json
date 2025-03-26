@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "twilightforest:dark_planks"
+    },
+    {
+      "item": "twilightforest:dark_planks"
+    },
+    {
+      "item": "twilightforest:dark_planks"
+    },
+    {
+      "item": "twilightforest:dark_log"
+    },
+    {
+      "item": "twilightforest:dark_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:dark_twilightforest_kitchen_wall_small_drawer"
+  }
+}

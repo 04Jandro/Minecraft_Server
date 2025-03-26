@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "pfm:venus_stone_ad_astra_table_dinner"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "venus_stone_ad_astra_table_dinner": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "ad_astra:polished_venus_stone"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "venus_stone_ad_astra_table_dinner",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "pfm:venus_stone_ad_astra_table_dinner"
+    ]
+  },
+  "sends_telemetry_event": true
+}

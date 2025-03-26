@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "ad_astra:polished_conglomerate"
+    },
+    {
+      "item": "ad_astra:polished_conglomerate"
+    },
+    {
+      "item": "ad_astra:polished_conglomerate"
+    },
+    {
+      "item": "ad_astra:polished_conglomerate"
+    },
+    {
+      "item": "ad_astra:polished_conglomerate"
+    },
+    {
+      "item": "ad_astra:polished_conglomerate"
+    },
+    {
+      "item": "ad_astra:conglomerate"
+    },
+    {
+      "item": "ad_astra:conglomerate"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:conglomerate_ad_astra_kitchen_cabinet"
+  }
+}

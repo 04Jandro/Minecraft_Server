@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "conditions": [
+            {
+              "block": "pfm:bamboo_pink_classic_bed",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "part": "head"
+              }
+            }
+          ],
+          "name": "pfm:bamboo_pink_classic_bed"
+        }
+      ],
+      "name": "bamboo_pink_classic_bed",
+      "rolls": 1.0
+    }
+  ]
+}

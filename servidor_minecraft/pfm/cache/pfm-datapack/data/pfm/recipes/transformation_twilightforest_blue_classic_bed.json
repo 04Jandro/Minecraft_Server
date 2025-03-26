@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "twilightforest:transformation_planks"
+    },
+    {
+      "item": "twilightforest:transformation_planks"
+    },
+    {
+      "item": "twilightforest:transformation_planks"
+    },
+    {
+      "item": "minecraft:blue_bed"
+    },
+    {
+      "item": "twilightforest:transformation_fence"
+    },
+    {
+      "item": "twilightforest:transformation_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:transformation_twilightforest_blue_classic_bed"
+  }
+}

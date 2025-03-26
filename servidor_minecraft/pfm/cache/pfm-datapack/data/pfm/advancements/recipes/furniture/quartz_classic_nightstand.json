@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "pfm:quartz_classic_nightstand"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "quartz_classic_nightstand": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:quartz_block"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "quartz_classic_nightstand",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "pfm:quartz_classic_nightstand"
+    ]
+  },
+  "sends_telemetry_event": true
+}

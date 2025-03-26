@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:moon_stone_ad_astra_chair_modern"
+        }
+      ],
+      "name": "moon_stone_ad_astra_chair_modern",
+      "rolls": 1.0
+    }
+  ]
+}

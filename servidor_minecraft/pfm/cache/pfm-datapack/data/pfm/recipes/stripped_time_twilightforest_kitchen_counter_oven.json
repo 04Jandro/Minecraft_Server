@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "twilightforest:stripped_time_log"
+    },
+    {
+      "item": "twilightforest:stripped_time_log"
+    },
+    {
+      "item": "twilightforest:stripped_time_log"
+    },
+    {
+      "item": "twilightforest:stripped_time_log"
+    },
+    {
+      "item": "twilightforest:stripped_time_log"
+    },
+    {
+      "item": "twilightforest:time_planks"
+    },
+    {
+      "item": "twilightforest:time_planks"
+    },
+    {
+      "item": "twilightforest:time_planks"
+    },
+    {
+      "item": "minecraft:furnace"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_time_twilightforest_kitchen_counter_oven"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "twilightforest:mining_planks"
+    },
+    {
+      "item": "twilightforest:mining_planks"
+    },
+    {
+      "item": "twilightforest:mining_planks"
+    },
+    {
+      "item": "minecraft:magenta_bed"
+    },
+    {
+      "item": "twilightforest:mining_fence"
+    },
+    {
+      "item": "twilightforest:mining_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:mining_twilightforest_magenta_classic_bed"
+  }
+}

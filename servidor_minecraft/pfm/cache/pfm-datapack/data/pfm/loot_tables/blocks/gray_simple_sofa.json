@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:gray_simple_sofa"
+        }
+      ],
+      "name": "gray_simple_sofa",
+      "rolls": 1.0
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "twilightforest:dark_planks"
+    },
+    {
+      "item": "twilightforest:dark_planks"
+    },
+    {
+      "item": "twilightforest:dark_planks"
+    },
+    {
+      "item": "twilightforest:dark_planks"
+    },
+    {
+      "item": "twilightforest:dark_planks"
+    },
+    {
+      "item": "twilightforest:dark_planks"
+    },
+    {
+      "item": "twilightforest:stripped_dark_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_dark_twilightforest_classic_nightstand"
+  }
+}

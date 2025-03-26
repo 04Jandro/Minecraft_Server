@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "minecraft:bamboo_planks"
+    },
+    {
+      "item": "minecraft:bamboo_planks"
+    },
+    {
+      "item": "minecraft:stripped_bamboo_block"
+    },
+    {
+      "item": "minecraft:stripped_bamboo_block"
+    },
+    {
+      "item": "minecraft:stripped_bamboo_block"
+    },
+    {
+      "item": "minecraft:stripped_bamboo_block"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_bamboo_chair"
+  }
+}

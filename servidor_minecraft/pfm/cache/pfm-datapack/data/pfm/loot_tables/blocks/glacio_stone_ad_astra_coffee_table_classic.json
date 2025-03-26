@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:glacio_stone_ad_astra_coffee_table_classic"
+        }
+      ],
+      "name": "glacio_stone_ad_astra_coffee_table_classic",
+      "rolls": 1.0
+    }
+  ]
+}

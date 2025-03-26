@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:skyroot_aether_kitchen_drawer"
+        }
+      ],
+      "name": "skyroot_aether_kitchen_drawer",
+      "rolls": 1.0
+    }
+  ]
+}

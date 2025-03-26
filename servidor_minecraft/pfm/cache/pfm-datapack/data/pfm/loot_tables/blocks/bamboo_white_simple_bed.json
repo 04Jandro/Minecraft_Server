@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "conditions": [
+            {
+              "block": "pfm:bamboo_white_simple_bed",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "part": "head"
+              }
+            }
+          ],
+          "name": "pfm:bamboo_white_simple_bed"
+        }
+      ],
+      "name": "bamboo_white_simple_bed",
+      "rolls": 1.0
+    }
+  ]
+}

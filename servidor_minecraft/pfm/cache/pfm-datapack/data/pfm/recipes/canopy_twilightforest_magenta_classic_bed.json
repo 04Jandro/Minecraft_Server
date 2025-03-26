@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "twilightforest:canopy_planks"
+    },
+    {
+      "item": "twilightforest:canopy_planks"
+    },
+    {
+      "item": "twilightforest:canopy_planks"
+    },
+    {
+      "item": "minecraft:magenta_bed"
+    },
+    {
+      "item": "twilightforest:canopy_fence"
+    },
+    {
+      "item": "twilightforest:canopy_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:canopy_twilightforest_magenta_classic_bed"
+  }
+}

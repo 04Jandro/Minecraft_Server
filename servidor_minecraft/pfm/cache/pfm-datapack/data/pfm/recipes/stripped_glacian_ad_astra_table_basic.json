@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "ad_astra:glacian_planks"
+    },
+    {
+      "item": "ad_astra:glacian_planks"
+    },
+    {
+      "item": "ad_astra:glacian_planks"
+    },
+    {
+      "item": "ad_astra:glacian_planks"
+    },
+    {
+      "item": "ad_astra:glacian_planks"
+    },
+    {
+      "item": "ad_astra:stripped_glacian_log"
+    },
+    {
+      "item": "ad_astra:stripped_glacian_log"
+    },
+    {
+      "item": "ad_astra:stripped_glacian_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_glacian_ad_astra_table_basic"
+  }
+}

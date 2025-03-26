@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "ad_astra:permafrost"
+    },
+    {
+      "item": "ad_astra:permafrost"
+    },
+    {
+      "item": "ad_astra:permafrost"
+    },
+    {
+      "item": "ad_astra:permafrost"
+    },
+    {
+      "item": "ad_astra:permafrost"
+    },
+    {
+      "item": "ad_astra:polished_permafrost"
+    },
+    {
+      "item": "ad_astra:polished_permafrost"
+    },
+    {
+      "item": "ad_astra:polished_permafrost"
+    },
+    {
+      "item": "minecraft:furnace"
+    }
+  ],
+  "result": {
+    "item": "pfm:permafrost_ad_astra_kitchen_counter_oven"
+  }
+}

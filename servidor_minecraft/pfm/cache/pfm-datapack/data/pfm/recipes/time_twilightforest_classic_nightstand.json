@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "twilightforest:time_log"
+    },
+    {
+      "item": "twilightforest:time_log"
+    },
+    {
+      "item": "twilightforest:time_log"
+    },
+    {
+      "item": "twilightforest:time_log"
+    },
+    {
+      "item": "twilightforest:time_log"
+    },
+    {
+      "item": "twilightforest:time_log"
+    },
+    {
+      "item": "twilightforest:time_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:time_twilightforest_classic_nightstand"
+  }
+}

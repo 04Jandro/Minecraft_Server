@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "twilightforest:mining_planks"
+    },
+    {
+      "item": "twilightforest:mining_planks"
+    },
+    {
+      "item": "twilightforest:mining_planks"
+    },
+    {
+      "item": "twilightforest:mining_planks"
+    },
+    {
+      "item": "twilightforest:mining_planks"
+    },
+    {
+      "item": "twilightforest:mining_planks"
+    },
+    {
+      "item": "twilightforest:mining_log"
+    },
+    {
+      "item": "twilightforest:mining_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:mining_twilightforest_kitchen_cabinet"
+  }
+}

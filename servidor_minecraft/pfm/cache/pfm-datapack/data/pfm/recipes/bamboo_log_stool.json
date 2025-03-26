@@ -1,0 +1,13 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "minecraft:bamboo_block"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:bamboo_log_stool"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "aether:skyroot_log"
+    },
+    {
+      "item": "aether:skyroot_log"
+    },
+    {
+      "item": "aether:skyroot_log"
+    },
+    {
+      "item": "aether:skyroot_log"
+    },
+    {
+      "item": "aether:skyroot_planks"
+    },
+    {
+      "item": "aether:skyroot_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:skyroot_aether_chair_classic"
+  }
+}

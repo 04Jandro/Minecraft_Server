@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "twilightforest:transformation_planks"
+    },
+    {
+      "item": "twilightforest:transformation_planks"
+    },
+    {
+      "item": "twilightforest:transformation_planks"
+    },
+    {
+      "item": "twilightforest:stripped_transformation_log"
+    },
+    {
+      "item": "twilightforest:stripped_transformation_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_transformation_twilightforest_classic_stool"
+  }
+}

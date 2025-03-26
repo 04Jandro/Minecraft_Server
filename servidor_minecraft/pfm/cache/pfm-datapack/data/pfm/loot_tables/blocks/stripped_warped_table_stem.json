@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:stripped_warped_table_stem"
+        }
+      ],
+      "name": "stripped_warped_table_stem",
+      "rolls": 1.0
+    }
+  ]
+}

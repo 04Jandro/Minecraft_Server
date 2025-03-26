@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:mesh_trashcan"
+        }
+      ],
+      "name": "mesh_trashcan",
+      "rolls": 1.0
+    }
+  ]
+}

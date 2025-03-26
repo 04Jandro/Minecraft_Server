@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "pfm:mars_stone_ad_astra_classic_nightstand"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "mars_stone_ad_astra_classic_nightstand": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "ad_astra:polished_mars_stone"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "mars_stone_ad_astra_classic_nightstand",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "pfm:mars_stone_ad_astra_classic_nightstand"
+    ]
+  },
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "twilightforest:sorting_planks"
+    },
+    {
+      "item": "twilightforest:sorting_planks"
+    },
+    {
+      "item": "twilightforest:sorting_planks"
+    },
+    {
+      "item": "twilightforest:sorting_planks"
+    },
+    {
+      "item": "twilightforest:sorting_planks"
+    },
+    {
+      "item": "twilightforest:sorting_log"
+    },
+    {
+      "item": "twilightforest:sorting_log"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "item": "pfm:sorting_twilightforest_kitchen_sink"
+  }
+}

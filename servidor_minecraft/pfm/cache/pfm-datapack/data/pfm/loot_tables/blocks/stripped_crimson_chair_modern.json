@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:stripped_crimson_chair_modern"
+        }
+      ],
+      "name": "stripped_crimson_chair_modern",
+      "rolls": 1.0
+    }
+  ]
+}

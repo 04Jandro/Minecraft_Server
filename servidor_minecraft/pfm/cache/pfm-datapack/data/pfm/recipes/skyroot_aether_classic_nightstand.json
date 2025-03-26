@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "aether:skyroot_log"
+    },
+    {
+      "item": "aether:skyroot_log"
+    },
+    {
+      "item": "aether:skyroot_log"
+    },
+    {
+      "item": "aether:skyroot_log"
+    },
+    {
+      "item": "aether:skyroot_log"
+    },
+    {
+      "item": "aether:skyroot_log"
+    },
+    {
+      "item": "aether:skyroot_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:skyroot_aether_classic_nightstand"
+  }
+}

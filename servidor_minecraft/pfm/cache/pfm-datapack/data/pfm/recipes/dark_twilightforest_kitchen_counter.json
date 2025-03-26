@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "twilightforest:dark_planks"
+    },
+    {
+      "item": "twilightforest:dark_planks"
+    },
+    {
+      "item": "twilightforest:dark_planks"
+    },
+    {
+      "item": "twilightforest:dark_planks"
+    },
+    {
+      "item": "twilightforest:dark_planks"
+    },
+    {
+      "item": "twilightforest:dark_planks"
+    },
+    {
+      "item": "twilightforest:dark_log"
+    },
+    {
+      "item": "twilightforest:dark_log"
+    },
+    {
+      "item": "twilightforest:dark_log"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:dark_twilightforest_kitchen_counter"
+  }
+}

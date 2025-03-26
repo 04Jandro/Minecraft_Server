@@ -1,0 +1,31 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "ad_astra:strophar_stem"
+    },
+    {
+      "item": "ad_astra:strophar_stem"
+    },
+    {
+      "item": "ad_astra:strophar_stem"
+    },
+    {
+      "item": "ad_astra:strophar_stem"
+    },
+    {
+      "item": "ad_astra:strophar_planks"
+    },
+    {
+      "item": "ad_astra:strophar_planks"
+    },
+    {
+      "item": "ad_astra:strophar_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:strophar_ad_astra_table_classic"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "twilightforest:time_planks"
+    },
+    {
+      "item": "twilightforest:time_planks"
+    },
+    {
+      "item": "twilightforest:time_planks"
+    },
+    {
+      "item": "minecraft:purple_bed"
+    },
+    {
+      "item": "twilightforest:time_fence"
+    },
+    {
+      "item": "twilightforest:time_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:time_twilightforest_purple_classic_bed"
+  }
+}

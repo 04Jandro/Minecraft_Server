@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "conditions": [
+            {
+              "block": "pfm:twilight_oak_twilightforest_cyan_simple_bed",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "part": "head"
+              }
+            }
+          ],
+          "name": "pfm:twilight_oak_twilightforest_cyan_simple_bed"
+        }
+      ],
+      "name": "twilight_oak_twilightforest_cyan_simple_bed",
+      "rolls": 1.0
+    }
+  ]
+}

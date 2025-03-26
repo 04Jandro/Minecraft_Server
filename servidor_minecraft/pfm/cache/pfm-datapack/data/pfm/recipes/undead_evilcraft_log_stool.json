@@ -1,0 +1,13 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "evilcraft:undead_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:undead_evilcraft_log_stool"
+  }
+}

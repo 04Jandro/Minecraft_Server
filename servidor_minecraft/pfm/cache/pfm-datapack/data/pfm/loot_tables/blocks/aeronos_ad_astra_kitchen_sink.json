@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:aeronos_ad_astra_kitchen_sink"
+        }
+      ],
+      "name": "aeronos_ad_astra_kitchen_sink",
+      "rolls": 1.0
+    }
+  ]
+}

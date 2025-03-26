@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "aether:skyroot_planks"
+    },
+    {
+      "item": "aether:skyroot_planks"
+    },
+    {
+      "item": "aether:skyroot_planks"
+    },
+    {
+      "item": "aether:skyroot_planks"
+    },
+    {
+      "item": "aether:skyroot_planks"
+    },
+    {
+      "item": "aether:skyroot_log"
+    },
+    {
+      "item": "aether:skyroot_log"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "item": "pfm:skyroot_aether_kitchen_sink"
+  }
+}

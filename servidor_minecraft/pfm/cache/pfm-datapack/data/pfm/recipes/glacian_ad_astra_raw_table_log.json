@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "ad_astra:glacian_log"
+    },
+    {
+      "item": "ad_astra:glacian_log"
+    },
+    {
+      "item": "ad_astra:glacian_log"
+    },
+    {
+      "item": "ad_astra:glacian_log"
+    },
+    {
+      "item": "ad_astra:glacian_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:glacian_ad_astra_raw_table_log"
+  }
+}

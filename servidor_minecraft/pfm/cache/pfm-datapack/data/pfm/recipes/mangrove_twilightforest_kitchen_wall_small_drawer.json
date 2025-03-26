@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "twilightforest:mangrove_planks"
+    },
+    {
+      "item": "twilightforest:mangrove_planks"
+    },
+    {
+      "item": "twilightforest:mangrove_planks"
+    },
+    {
+      "item": "twilightforest:mangrove_log"
+    },
+    {
+      "item": "twilightforest:mangrove_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:mangrove_twilightforest_kitchen_wall_small_drawer"
+  }
+}

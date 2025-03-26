@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:granite_kitchen_wall_drawer"
+        }
+      ],
+      "name": "granite_kitchen_wall_drawer",
+      "rolls": 1.0
+    }
+  ]
+}

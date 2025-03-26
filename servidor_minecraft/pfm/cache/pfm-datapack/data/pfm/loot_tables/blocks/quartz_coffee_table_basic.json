@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:quartz_coffee_table_basic"
+        }
+      ],
+      "name": "quartz_coffee_table_basic",
+      "rolls": 1.0
+    }
+  ]
+}

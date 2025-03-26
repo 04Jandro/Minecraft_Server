@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:froggy_chair_blue"
+        }
+      ],
+      "name": "froggy_chair_blue",
+      "rolls": 1.0
+    }
+  ]
+}

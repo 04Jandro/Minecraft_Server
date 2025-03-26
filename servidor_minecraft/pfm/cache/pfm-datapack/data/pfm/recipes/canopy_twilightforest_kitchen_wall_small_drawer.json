@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "twilightforest:canopy_planks"
+    },
+    {
+      "item": "twilightforest:canopy_planks"
+    },
+    {
+      "item": "twilightforest:canopy_planks"
+    },
+    {
+      "item": "twilightforest:canopy_log"
+    },
+    {
+      "item": "twilightforest:canopy_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:canopy_twilightforest_kitchen_wall_small_drawer"
+  }
+}

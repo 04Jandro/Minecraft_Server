@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "twilightforest:transformation_planks"
+    },
+    {
+      "item": "twilightforest:transformation_planks"
+    },
+    {
+      "item": "twilightforest:transformation_planks"
+    },
+    {
+      "item": "twilightforest:transformation_planks"
+    },
+    {
+      "item": "twilightforest:transformation_planks"
+    },
+    {
+      "item": "twilightforest:transformation_planks"
+    },
+    {
+      "item": "twilightforest:stripped_transformation_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_transformation_twilightforest_classic_nightstand"
+  }
+}

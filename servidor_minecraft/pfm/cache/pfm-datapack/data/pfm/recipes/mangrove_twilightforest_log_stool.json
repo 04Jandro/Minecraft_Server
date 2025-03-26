@@ -1,0 +1,13 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "twilightforest:mangrove_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:mangrove_twilightforest_log_stool"
+  }
+}

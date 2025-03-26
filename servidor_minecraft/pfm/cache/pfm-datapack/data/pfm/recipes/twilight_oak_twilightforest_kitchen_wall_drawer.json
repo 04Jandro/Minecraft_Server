@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "twilightforest:twilight_oak_planks"
+    },
+    {
+      "item": "twilightforest:twilight_oak_planks"
+    },
+    {
+      "item": "twilightforest:twilight_oak_planks"
+    },
+    {
+      "item": "twilightforest:twilight_oak_planks"
+    },
+    {
+      "item": "twilightforest:twilight_oak_planks"
+    },
+    {
+      "item": "twilightforest:twilight_oak_planks"
+    },
+    {
+      "item": "twilightforest:twilight_oak_log"
+    },
+    {
+      "item": "twilightforest:twilight_oak_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:twilight_oak_twilightforest_kitchen_wall_drawer"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "ad_astra:glacio_stone"
+    },
+    {
+      "item": "ad_astra:glacio_stone"
+    },
+    {
+      "item": "ad_astra:glacio_stone"
+    },
+    {
+      "item": "ad_astra:polished_glacio_stone"
+    },
+    {
+      "item": "ad_astra:polished_glacio_stone"
+    },
+    {
+      "item": "ad_astra:polished_glacio_stone"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:glacio_stone_ad_astra_table_dinner"
+  }
+}

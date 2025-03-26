@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:canopy_twilightforest_kitchen_wall_small_drawer"
+        }
+      ],
+      "name": "canopy_twilightforest_kitchen_wall_small_drawer",
+      "rolls": 1.0
+    }
+  ]
+}

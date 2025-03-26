@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:crimson_kitchen_counter"
+        }
+      ],
+      "name": "crimson_kitchen_counter",
+      "rolls": 1.0
+    }
+  ]
+}

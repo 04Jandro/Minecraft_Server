@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:andesite_oak_kitchen_wall_counter"
+        }
+      ],
+      "name": "andesite_oak_kitchen_wall_counter",
+      "rolls": 1.0
+    }
+  ]
+}

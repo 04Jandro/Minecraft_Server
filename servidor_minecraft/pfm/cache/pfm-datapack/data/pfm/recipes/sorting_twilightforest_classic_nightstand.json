@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "twilightforest:sorting_log"
+    },
+    {
+      "item": "twilightforest:sorting_log"
+    },
+    {
+      "item": "twilightforest:sorting_log"
+    },
+    {
+      "item": "twilightforest:sorting_log"
+    },
+    {
+      "item": "twilightforest:sorting_log"
+    },
+    {
+      "item": "twilightforest:sorting_log"
+    },
+    {
+      "item": "twilightforest:sorting_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:sorting_twilightforest_classic_nightstand"
+  }
+}

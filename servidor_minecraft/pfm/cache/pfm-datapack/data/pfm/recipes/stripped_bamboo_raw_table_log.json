@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "minecraft:stripped_bamboo_block"
+    },
+    {
+      "item": "minecraft:stripped_bamboo_block"
+    },
+    {
+      "item": "minecraft:stripped_bamboo_block"
+    },
+    {
+      "item": "minecraft:stripped_bamboo_block"
+    },
+    {
+      "item": "minecraft:stripped_bamboo_block"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_bamboo_raw_table_log"
+  }
+}

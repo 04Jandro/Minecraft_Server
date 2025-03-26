@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:sorting_twilightforest_simple_stool"
+        }
+      ],
+      "name": "sorting_twilightforest_simple_stool",
+      "rolls": 1.0
+    }
+  ]
+}

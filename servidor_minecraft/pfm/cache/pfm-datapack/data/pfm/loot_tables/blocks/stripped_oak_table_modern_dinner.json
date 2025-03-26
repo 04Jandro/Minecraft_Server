@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:stripped_oak_table_modern_dinner"
+        }
+      ],
+      "name": "stripped_oak_table_modern_dinner",
+      "rolls": 1.0
+    }
+  ]
+}

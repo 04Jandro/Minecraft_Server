@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "twilightforest:transformation_planks"
+    },
+    {
+      "item": "twilightforest:transformation_planks"
+    },
+    {
+      "item": "twilightforest:transformation_planks"
+    },
+    {
+      "item": "twilightforest:transformation_planks"
+    },
+    {
+      "item": "twilightforest:transformation_planks"
+    },
+    {
+      "item": "twilightforest:transformation_planks"
+    },
+    {
+      "item": "twilightforest:transformation_log"
+    },
+    {
+      "item": "twilightforest:transformation_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:transformation_twilightforest_kitchen_wall_drawer"
+  }
+}

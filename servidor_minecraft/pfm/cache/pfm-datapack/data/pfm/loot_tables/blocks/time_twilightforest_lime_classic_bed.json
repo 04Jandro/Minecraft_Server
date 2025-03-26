@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "conditions": [
+            {
+              "block": "pfm:time_twilightforest_lime_classic_bed",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "part": "head"
+              }
+            }
+          ],
+          "name": "pfm:time_twilightforest_lime_classic_bed"
+        }
+      ],
+      "name": "time_twilightforest_lime_classic_bed",
+      "rolls": 1.0
+    }
+  ]
+}

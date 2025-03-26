@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:blackstone_table_dinner"
+        }
+      ],
+      "name": "blackstone_table_dinner",
+      "rolls": 1.0
+    }
+  ]
+}

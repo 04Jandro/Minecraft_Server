@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "twilightforest:transformation_log"
+    },
+    {
+      "item": "twilightforest:transformation_log"
+    },
+    {
+      "item": "twilightforest:transformation_log"
+    },
+    {
+      "item": "twilightforest:transformation_planks"
+    },
+    {
+      "item": "twilightforest:transformation_planks"
+    },
+    {
+      "item": "twilightforest:transformation_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:transformation_twilightforest_chair_dinner"
+  }
+}

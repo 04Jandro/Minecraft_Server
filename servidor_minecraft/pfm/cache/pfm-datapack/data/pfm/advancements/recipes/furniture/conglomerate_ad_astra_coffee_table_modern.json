@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "conglomerate_ad_astra_coffee_table_modern": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "ad_astra:polished_conglomerate"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "pfm:conglomerate_ad_astra_coffee_table_modern"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "conglomerate_ad_astra_coffee_table_modern",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "pfm:conglomerate_ad_astra_coffee_table_modern"
+    ]
+  },
+  "sends_telemetry_event": true
+}

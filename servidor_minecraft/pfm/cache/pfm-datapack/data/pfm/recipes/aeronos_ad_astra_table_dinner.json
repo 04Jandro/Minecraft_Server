@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "ad_astra:aeronos_stem"
+    },
+    {
+      "item": "ad_astra:aeronos_stem"
+    },
+    {
+      "item": "ad_astra:aeronos_stem"
+    },
+    {
+      "item": "ad_astra:aeronos_planks"
+    },
+    {
+      "item": "ad_astra:aeronos_planks"
+    },
+    {
+      "item": "ad_astra:aeronos_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:aeronos_ad_astra_table_dinner"
+  }
+}

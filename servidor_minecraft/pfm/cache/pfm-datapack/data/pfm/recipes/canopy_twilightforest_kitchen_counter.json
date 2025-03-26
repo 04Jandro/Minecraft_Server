@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "twilightforest:canopy_planks"
+    },
+    {
+      "item": "twilightforest:canopy_planks"
+    },
+    {
+      "item": "twilightforest:canopy_planks"
+    },
+    {
+      "item": "twilightforest:canopy_planks"
+    },
+    {
+      "item": "twilightforest:canopy_planks"
+    },
+    {
+      "item": "twilightforest:canopy_planks"
+    },
+    {
+      "item": "twilightforest:canopy_log"
+    },
+    {
+      "item": "twilightforest:canopy_log"
+    },
+    {
+      "item": "twilightforest:canopy_log"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:canopy_twilightforest_kitchen_counter"
+  }
+}

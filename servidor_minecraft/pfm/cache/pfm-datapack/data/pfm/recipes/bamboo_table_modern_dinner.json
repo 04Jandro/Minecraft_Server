@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "minecraft:bamboo_block"
+    },
+    {
+      "item": "minecraft:bamboo_block"
+    },
+    {
+      "item": "minecraft:bamboo_block"
+    },
+    {
+      "item": "minecraft:bamboo_block"
+    },
+    {
+      "item": "minecraft:bamboo_block"
+    },
+    {
+      "item": "minecraft:bamboo_planks"
+    },
+    {
+      "item": "minecraft:bamboo_planks"
+    },
+    {
+      "item": "minecraft:bamboo_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:bamboo_table_modern_dinner"
+  }
+}

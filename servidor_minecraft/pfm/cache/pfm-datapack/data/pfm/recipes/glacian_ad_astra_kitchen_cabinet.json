@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "ad_astra:glacian_planks"
+    },
+    {
+      "item": "ad_astra:glacian_planks"
+    },
+    {
+      "item": "ad_astra:glacian_planks"
+    },
+    {
+      "item": "ad_astra:glacian_planks"
+    },
+    {
+      "item": "ad_astra:glacian_planks"
+    },
+    {
+      "item": "ad_astra:glacian_planks"
+    },
+    {
+      "item": "ad_astra:glacian_log"
+    },
+    {
+      "item": "ad_astra:glacian_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:glacian_ad_astra_kitchen_cabinet"
+  }
+}

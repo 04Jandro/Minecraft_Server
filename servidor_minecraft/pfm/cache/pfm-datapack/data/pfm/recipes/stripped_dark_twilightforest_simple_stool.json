@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "twilightforest:dark_planks"
+    },
+    {
+      "item": "twilightforest:dark_planks"
+    },
+    {
+      "item": "twilightforest:stripped_dark_log"
+    },
+    {
+      "item": "twilightforest:stripped_dark_log"
+    },
+    {
+      "item": "twilightforest:stripped_dark_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_dark_twilightforest_simple_stool"
+  }
+}

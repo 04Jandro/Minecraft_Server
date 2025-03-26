@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:cherry_table_modern_dinner"
+        }
+      ],
+      "name": "cherry_table_modern_dinner",
+      "rolls": 1.0
+    }
+  ]
+}

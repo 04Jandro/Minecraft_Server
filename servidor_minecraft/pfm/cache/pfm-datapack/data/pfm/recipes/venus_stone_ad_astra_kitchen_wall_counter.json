@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "ad_astra:polished_venus_stone"
+    },
+    {
+      "item": "ad_astra:polished_venus_stone"
+    },
+    {
+      "item": "ad_astra:polished_venus_stone"
+    },
+    {
+      "item": "ad_astra:polished_venus_stone"
+    },
+    {
+      "item": "ad_astra:polished_venus_stone"
+    },
+    {
+      "item": "ad_astra:polished_venus_stone"
+    },
+    {
+      "item": "ad_astra:polished_venus_stone"
+    },
+    {
+      "item": "ad_astra:polished_venus_stone"
+    },
+    {
+      "item": "ad_astra:polished_venus_stone"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:venus_stone_ad_astra_kitchen_wall_counter"
+  }
+}

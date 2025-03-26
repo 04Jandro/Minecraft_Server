@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:transformation_twilightforest_kitchen_cabinet"
+        }
+      ],
+      "name": "transformation_twilightforest_kitchen_cabinet",
+      "rolls": 1.0
+    }
+  ]
+}

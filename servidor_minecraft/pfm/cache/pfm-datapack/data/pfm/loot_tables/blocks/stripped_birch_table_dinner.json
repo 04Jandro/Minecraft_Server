@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:stripped_birch_table_dinner"
+        }
+      ],
+      "name": "stripped_birch_table_dinner",
+      "rolls": 1.0
+    }
+  ]
+}

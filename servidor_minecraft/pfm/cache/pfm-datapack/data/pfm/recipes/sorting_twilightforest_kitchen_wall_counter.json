@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "twilightforest:sorting_planks"
+    },
+    {
+      "item": "twilightforest:sorting_planks"
+    },
+    {
+      "item": "twilightforest:sorting_planks"
+    },
+    {
+      "item": "twilightforest:sorting_planks"
+    },
+    {
+      "item": "twilightforest:sorting_planks"
+    },
+    {
+      "item": "twilightforest:sorting_planks"
+    },
+    {
+      "item": "twilightforest:sorting_planks"
+    },
+    {
+      "item": "twilightforest:sorting_planks"
+    },
+    {
+      "item": "twilightforest:sorting_planks"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:sorting_twilightforest_kitchen_wall_counter"
+  }
+}

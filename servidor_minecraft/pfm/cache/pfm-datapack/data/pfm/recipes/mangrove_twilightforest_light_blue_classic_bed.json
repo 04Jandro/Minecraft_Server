@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "twilightforest:mangrove_planks"
+    },
+    {
+      "item": "twilightforest:mangrove_planks"
+    },
+    {
+      "item": "twilightforest:mangrove_planks"
+    },
+    {
+      "item": "minecraft:light_blue_bed"
+    },
+    {
+      "item": "twilightforest:mangrove_fence"
+    },
+    {
+      "item": "twilightforest:mangrove_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:mangrove_twilightforest_light_blue_classic_bed"
+  }
+}

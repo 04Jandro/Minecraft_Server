@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "glacio_stone_ad_astra_coffee_table_basic": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "ad_astra:polished_glacio_stone"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "pfm:glacio_stone_ad_astra_coffee_table_basic"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "glacio_stone_ad_astra_coffee_table_basic",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "pfm:glacio_stone_ad_astra_coffee_table_basic"
+    ]
+  },
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "conditions": [
+            {
+              "block": "pfm:aeronos_ad_astra_light_blue_classic_bed",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "part": "head"
+              }
+            }
+          ],
+          "name": "pfm:aeronos_ad_astra_light_blue_classic_bed"
+        }
+      ],
+      "name": "aeronos_ad_astra_light_blue_classic_bed",
+      "rolls": 1.0
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "twilightforest:twilight_oak_planks"
+    },
+    {
+      "item": "twilightforest:twilight_oak_planks"
+    },
+    {
+      "item": "twilightforest:twilight_oak_planks"
+    },
+    {
+      "item": "twilightforest:twilight_oak_planks"
+    },
+    {
+      "item": "twilightforest:twilight_oak_planks"
+    },
+    {
+      "item": "twilightforest:twilight_oak_planks"
+    },
+    {
+      "item": "twilightforest:twilight_oak_log"
+    },
+    {
+      "item": "twilightforest:twilight_oak_log"
+    },
+    {
+      "item": "twilightforest:twilight_oak_log"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:twilight_oak_twilightforest_kitchen_counter"
+  }
+}

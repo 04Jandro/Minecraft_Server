@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:jungle_kitchen_counter"
+        }
+      ],
+      "name": "jungle_kitchen_counter",
+      "rolls": 1.0
+    }
+  ]
+}

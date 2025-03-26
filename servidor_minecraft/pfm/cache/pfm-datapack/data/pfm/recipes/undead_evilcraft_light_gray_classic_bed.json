@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "evilcraft:undead_planks"
+    },
+    {
+      "item": "evilcraft:undead_planks"
+    },
+    {
+      "item": "evilcraft:undead_planks"
+    },
+    {
+      "item": "minecraft:light_gray_bed"
+    },
+    {
+      "item": "evilcraft:undead_fence"
+    },
+    {
+      "item": "evilcraft:undead_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:undead_evilcraft_light_gray_classic_bed"
+  }
+}

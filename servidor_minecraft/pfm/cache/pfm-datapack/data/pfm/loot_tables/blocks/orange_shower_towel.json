@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:orange_shower_towel"
+        }
+      ],
+      "name": "orange_shower_towel",
+      "rolls": 1.0
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "aether:skyroot_planks"
+    },
+    {
+      "item": "aether:skyroot_planks"
+    },
+    {
+      "item": "aether:skyroot_planks"
+    },
+    {
+      "item": "minecraft:red_bed"
+    },
+    {
+      "item": "aether:skyroot_fence"
+    },
+    {
+      "item": "aether:skyroot_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:skyroot_aether_red_classic_bed"
+  }
+}

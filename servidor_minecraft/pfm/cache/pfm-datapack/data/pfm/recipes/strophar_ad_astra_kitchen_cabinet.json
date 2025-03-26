@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "ad_astra:strophar_planks"
+    },
+    {
+      "item": "ad_astra:strophar_planks"
+    },
+    {
+      "item": "ad_astra:strophar_planks"
+    },
+    {
+      "item": "ad_astra:strophar_planks"
+    },
+    {
+      "item": "ad_astra:strophar_planks"
+    },
+    {
+      "item": "ad_astra:strophar_planks"
+    },
+    {
+      "item": "ad_astra:strophar_stem"
+    },
+    {
+      "item": "ad_astra:strophar_stem"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:strophar_ad_astra_kitchen_cabinet"
+  }
+}

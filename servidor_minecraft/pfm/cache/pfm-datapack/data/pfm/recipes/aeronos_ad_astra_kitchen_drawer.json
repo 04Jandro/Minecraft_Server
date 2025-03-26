@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "ad_astra:aeronos_planks"
+    },
+    {
+      "item": "ad_astra:aeronos_planks"
+    },
+    {
+      "item": "ad_astra:aeronos_planks"
+    },
+    {
+      "item": "ad_astra:aeronos_planks"
+    },
+    {
+      "item": "ad_astra:aeronos_planks"
+    },
+    {
+      "item": "ad_astra:aeronos_stem"
+    },
+    {
+      "item": "ad_astra:aeronos_stem"
+    },
+    {
+      "item": "ad_astra:aeronos_stem"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:aeronos_ad_astra_kitchen_drawer"
+  }
+}

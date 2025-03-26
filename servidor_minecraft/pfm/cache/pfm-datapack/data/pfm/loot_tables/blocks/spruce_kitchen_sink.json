@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:spruce_kitchen_sink"
+        }
+      ],
+      "name": "spruce_kitchen_sink",
+      "rolls": 1.0
+    }
+  ]
+}

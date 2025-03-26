@@ -1,0 +1,13 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "twilightforest:time_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:time_twilightforest_log_stool"
+  }
+}

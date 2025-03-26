@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "ad_astra:polished_mercury_stone"
+    },
+    {
+      "item": "ad_astra:polished_mercury_stone"
+    },
+    {
+      "item": "ad_astra:polished_mercury_stone"
+    },
+    {
+      "item": "ad_astra:polished_mercury_stone"
+    },
+    {
+      "item": "ad_astra:polished_mercury_stone"
+    },
+    {
+      "item": "ad_astra:polished_mercury_stone"
+    },
+    {
+      "item": "ad_astra:mercury_stone"
+    },
+    {
+      "item": "ad_astra:mercury_stone"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:mercury_stone_ad_astra_kitchen_cabinet"
+  }
+}

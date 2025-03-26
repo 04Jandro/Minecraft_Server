@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "ad_astra:moon_stone"
+    },
+    {
+      "item": "ad_astra:moon_stone"
+    },
+    {
+      "item": "ad_astra:polished_moon_stone"
+    },
+    {
+      "item": "ad_astra:polished_moon_stone"
+    },
+    {
+      "item": "ad_astra:polished_moon_stone"
+    },
+    {
+      "item": "ad_astra:polished_moon_stone"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:moon_stone_ad_astra_chair"
+  }
+}

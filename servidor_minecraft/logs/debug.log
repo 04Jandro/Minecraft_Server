@@ -4742,3 +4742,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:ruined_book'
 [31Mar2025 19:04:22.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jandro_: Saved the game]
 [31Mar2025 19:04:23.731] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jandro_ lost connection: Disconnected
 [31Mar2025 19:04:23.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jandro_ left the game
+[31Mar2025 19:06:04.829] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Mar2025 19:06:04.884] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
